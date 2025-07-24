@@ -1,4 +1,4 @@
-# Threads Publishing API Sample App
+https://www.threads.net/@jaysonscottheise?invite=0 # Threads Publishing API Sample App
 
 > ⚠️ We will update the sample app over time. Please note that all of the latest features may not be demonstrated in the sample app. Please refer to the [developer documentation changelog](https://developers.facebook.com/docs/threads/changelog) for the most up-to-date features.
 

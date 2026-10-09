@@ -51,3 +51,4 @@ Note: If you are using devcontainers, ensure that containers are enabled and sup
 ## License
 Threads API is Meta Platform Policy licensed, as found in the LICENSE file.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
